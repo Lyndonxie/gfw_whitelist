@@ -155,6 +155,7 @@
 ||buaa.edu.cn
 ||e.buaa.edu.cn
 ||buaabt.cn
+||lib.buaa.edu.cn
 
 ! C
 ||cachemoment.com
