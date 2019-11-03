@@ -157,6 +157,7 @@
 ||buaabt.cn
 ||lib.buaa.edu.cn
 ||opac.lib.buaa.edu.cn
+||sso.buaa.edu.cn
 
 ! C
 ||cachemoment.com
