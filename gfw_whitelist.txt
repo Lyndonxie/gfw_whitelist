@@ -152,6 +152,9 @@
 ||bumimi.com
 ||buu.edu.cn
 ||bybbs.org
+||buaa.edu.cn
+||e.buaa.edu.cn
+||buaabt.cn
 
 ! C
 ||cachemoment.com
@@ -271,6 +274,7 @@
 ||h2os.com
 ||hacpai.com
 ||halyul.cc
+||haitou.cc
 ||hao123.com
 ||hdslb.com
 ||hdslb.net
@@ -430,6 +434,7 @@
 ||moetransit.com
 ||mokeedev.com
 ||momentcdn.com
+||moulem.com
 ||msftconnecttest.com
 ||mtyun.com
 ||muchong.com
